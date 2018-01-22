@@ -8,14 +8,3 @@ jiaocheng
 git is a distribute version control system.
 git is free software distribute under the GPL.
 
-i can fly
-acer
-
-
-
-i am cold walk alone on the way
-
-
-
-
-
